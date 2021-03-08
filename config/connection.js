@@ -5,10 +5,10 @@ const mysql = require('mysql');
 
 // - Connection configuration
 var db_config = {
-    host: 'bhtifapksjcjvimj4zy7-mysql.services.clever-cloud.com',
+    host: 'bavpajt58wbpxheuorex-mysql.services.clever-cloud.com',
     user: 'ueviytjqcrg7rylw',
     password: 'WksqgT2nMXdMam5xlsp3',
-    database: 'bhtifapksjcjvimj4zy7'
+    database: 'bavpajt58wbpxheuorex'
 };
 
 //localhost
